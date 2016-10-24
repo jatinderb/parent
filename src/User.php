@@ -1,4 +1,5 @@
 <?php
+//test
 class User
 {
 	public function validate()
